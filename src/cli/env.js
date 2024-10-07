@@ -9,3 +9,4 @@ const parseEnv = () => {
   
   parseEnv();
   
+  // for run test in terminal node env.test.js
