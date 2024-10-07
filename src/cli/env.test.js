@@ -34,4 +34,3 @@ const testParseEnv = () => {
 };
 
 testParseEnv().catch(() => process.exit(1));
-// for run test node env.test.js

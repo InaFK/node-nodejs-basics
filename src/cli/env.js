@@ -9,4 +9,5 @@ const parseEnv = () => {
   
   parseEnv();
   
-  // for run test in terminal node env.test.js
+  // for run script in PowerShell: $env:RSS_name1="value1"; $env:RSS_name2="value2"; $env:RSS_secret="abc123"; node env.js
+  // for run test in terminal: node env.test.js
